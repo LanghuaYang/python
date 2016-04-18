@@ -1,0 +1,6 @@
+xinyang	23	99
+langhua	21	100
+sina	23	98
+lili	27	89
+dudufat	9	100
+heihei	2	76
