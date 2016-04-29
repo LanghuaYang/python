@@ -1,0 +1,7 @@
+oldzoo = ('wolf', 'elephant', 'penguin')
+print('number of animals in old zoo:', len(oldzoo))
+newzoo = ('monkey', 'dolphin', oldzoo)
+print('number of animals in new zoo', len(newzoo))
+print('the animals are:',newzoo)
+print('the animals bought from old zoo are:',newzoo[2])
+print('the last animal from old zoo is:', newzoo[2][2])
