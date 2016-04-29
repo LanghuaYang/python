@@ -1,2 +1,0 @@
-# python
-practice python coding
