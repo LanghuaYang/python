@@ -1,3 +1,0 @@
-git is useful
-add something
-git manage the changing not the file itself
